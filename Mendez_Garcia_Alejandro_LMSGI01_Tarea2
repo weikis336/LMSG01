@@ -3,9 +3,9 @@
         <sopa_cebolla>
             <ingredientes>
                 <lista>
-                    <celda><Cebollas>1KG</Cebollas></celda>
-                    <celda><caldo_carne>2L</caldo_carne></celda>
-                    <celda><cucharadas_harina>1</cucharadas_harina></celda>
+                    <Cebollas>1KG</Cebollas>
+                    <caldo_carne>2L</caldo_carne>
+                    <cucharadas_harina>1</cucharadas_harina>
                     <Queso>
                         <variante1><queso_emmental>100gr</queso_emmental></variante1>
                         <variante2><queso_gruyere_rayado>100gr</queso_gruyere_rayado></variante2>
